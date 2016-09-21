@@ -1,0 +1,8 @@
+elm-stuff/
+node_modules/
+tmp/
+dist/
+.tmp/
+.idea/
+*.log
+.DS_Store
